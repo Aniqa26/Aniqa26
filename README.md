@@ -1,16 +1,18 @@
-### Hi there 👋
+## Introducing Myself 🙋‍♀️
 
-<!--
-**Aniqa26/Aniqa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Aniqa, a skilled software engineer and data analyst with experience in .NET applications, SQL, data visualization, business intelligence, and data engineering. I have a passion for transforming data into actionable insights.
 
-Here are some ideas to get you started:
+### 💡 My Skills
+- Data preparation, quality assurance, and analysis
+- Database design and modelling
+- Dashboard development and reporting
+- Exploratory data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tools
+- Databases: SQL (SQL Server, PostgreSQL, MySQL)
+- ETL Tools: SSIS, SSAS (Tabular model, Cube), Excel
+- Visualisation: SSRS, Power BI
+
+### 🙌🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/aniqariasat/)
+- [Portfolio Website](https://aniqa26.github.io/portfolio/)
