@@ -1,6 +1,6 @@
 ## Introducing Myself 🙋‍♀️
 
-Hi there! I'm Aniqa, a skilled software engineer and data analyst with experience in .NET applications, SQL, data visualization, business intelligence, and data engineering. I have a passion for transforming data into actionable insights.
+Hi there! I'm Aniqa, a skilled software engineer and data analyst with experience in .NET applications, SQL, Data Visualization, Business Intelligence, and Data Engineering. I have a passion for transforming data into actionable insights.
 
 ### 💡 My Skills
 - Data preparation, quality assurance, and analysis
