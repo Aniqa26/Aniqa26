@@ -11,7 +11,7 @@ Hi there! I'm Aniqa, a skilled software engineer and data analyst with experienc
 ### 🛠️ My Tools
 - Databases: SQL (SQL Server, PostgreSQL, MySQL)
 - ETL Tools: SSIS, SSAS (Tabular model, Cube), Excel
-- Visualisation: SSRS, Power BI
+- Visualisation: SSRS, Power BI, Tableau 
 
 ### 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/aniqariasat/)
